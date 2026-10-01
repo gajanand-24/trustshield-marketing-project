@@ -1,4 +1,4 @@
-# 🛡️ TrustShield AI — NLP Spam SMS & Fake Review Detection
+#  TrustShield AI — NLP Spam SMS & Fake Review Detection
 ### *Product Marketing (PMM) | Performance Marketing | Content Marketing Suite*
 
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **TrustShield AI** is a dual-shield NLP trust engine built to solve two major real-world challenges:
 1. **Spam SMS & Phishing (Smishing)**: Identifying fake gift cards, crypto giveaways, and delivery scam links before users fall victim.
@@ -18,18 +18,18 @@ This repository doubles as an **Interactive Product & Growth Marketing Portfolio
 
 ---
 
-## 🚀 Live Interactive Features
+##  Live Interactive Features
 
-- **📱 SMS Smishing & Phishing Classifier**: Real-time NLP token analysis, TF-IDF keyword extraction, urgency heuristic scoring, and risk levels.
-- **⭐ Fake Review Audit Engine**: Evaluates review authenticity, syntactic uniformity (LLM bot detection), sentiment mismatch, and reviewer account age.
-- **🎯 Product Marketing (PMM) Frameworks**: Interactive positioning matrix, 90-day GTM launch blueprint, and competitive battlecards.
-- **📈 Performance Marketing Sandbox**: Live ad copy rendered cards for Meta/Instagram, Google RSA, and LinkedIn B2B, plus a **Dynamic ROI & CAC Unit Economics Calculator**.
-- **📝 Content & SEO Strategy Matrix**: High-intent keyword universe (45k+ monthly search volume), long-form pillar whitepaper preview, and a 30-day content distribution calendar.
-- **💼 Resume & STAR Interview Guide**: Tailored bullet points for resume inclusion and STAR framework talking points for interviews.
+- ** SMS Smishing & Phishing Classifier**: Real-time NLP token analysis, TF-IDF keyword extraction, urgency heuristic scoring, and risk levels.
+- ** Fake Review Audit Engine**: Evaluates review authenticity, syntactic uniformity (LLM bot detection), sentiment mismatch, and reviewer account age.
+- ** Product Marketing (PMM) Frameworks**: Interactive positioning matrix, 90-day GTM launch blueprint, and competitive battlecards.
+- ** Performance Marketing Sandbox**: Live ad copy rendered cards for Meta/Instagram, Google RSA, and LinkedIn B2B, plus a **Dynamic ROI & CAC Unit Economics Calculator**.
+- ** Content & SEO Strategy Matrix**: High-intent keyword universe (45k+ monthly search volume), long-form pillar whitepaper preview, and a 30-day content distribution calendar.
+- ** Resume & STAR Interview Guide**: Tailored bullet points for resume inclusion and STAR framework talking points for interviews.
 
 ---
 
-## 🛠️ Quick Start & Local Setup
+##  Quick Start & Local Setup
 
 ```bash
 # Clone the repository
@@ -49,7 +49,7 @@ Open `http://localhost:5173` in your browser to view the live interactive applic
 
 ---
 
-## 📸 Application Showcase
+##  Application Showcase
 
 ### 1. Live NLP Spam & Fake Review Engine
 - Real-time spam probability scoring (0 - 100%)
@@ -63,7 +63,7 @@ Open `http://localhost:5173` in your browser to view the live interactive applic
 
 ---
 
-## 💼 Resume Accomplishments
+##  Resume Accomplishments
 
 ```text
 • Spearheaded Go-To-Market (GTM) positioning & launch strategy for an NLP-based Spam SMS & Fake Review Detection solution, targeting B2B e-commerce merchants and B2C consumers.
@@ -73,5 +73,5 @@ Open `http://localhost:5173` in your browser to view the live interactive applic
 
 ---
 
-## 📜 License
+##  License
 Licensed under the [MIT License](LICENSE). Built by [Gajanand](https://github.com/gajanand-24).
